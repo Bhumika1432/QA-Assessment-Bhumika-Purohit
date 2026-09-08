@@ -1,0 +1,7 @@
+{
+  "name": "oomnieeye-qa-assessment",
+  "private": true,
+  "devDependencies": {
+    "@playwright/test": "latest"
+  }
+}
