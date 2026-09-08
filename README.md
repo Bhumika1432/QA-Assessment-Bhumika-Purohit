@@ -43,8 +43,12 @@ The application was tested for:
 - Test Cases
 - Bug Report
 - Final Explanation Video
-  VIDEO LINK
-- [https://drive.google.com/file/d/14LMmyMzueOeumuDhWoQDAoXJeyWDU4FF/view?usp=drive_link](https://drive.google.com/file/d/14LMmyMzueOeumuDhWoQDAoXJeyWDU4FF/view?usp=drive_link)
+
+## Video Link
+https://drive.google.com/file/d/14LMmyZmue0emuDwhQ0DAxXleyWD4FF/view?usp=drive_link
+
+## GitHub Repository
+https://github.com/Bhumika1432/QA-Assessment-Bhumika-Purohit
 
 ## Test Evidence
 
